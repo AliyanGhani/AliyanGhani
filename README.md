@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Aliyan Ghani
 
-<!--
-**AliyanGhani/AliyanGhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack & WordPress Web Developer  
+🌍 Based in Pakistan  
+🚀 Building modern websites, dashboards & automation tools
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Node.js, Express
+- PHP, WordPress
+- MySQL, MongoDB
+- Git & GitHub
+
+---
+
+## 🚀 Featured Projects
+- 🔹 Portfolio Website (React)
+- 🔹 Full Stack CRUD App (Node + React)
+- 🔹 WordPress Custom Theme
+- 🔹 REST API with JWT Auth
+
+*(Projects coming soon – actively building)*
+
+---
+
+## 📫 Contact Me
+- Email: your@email.com
+- LinkedIn: add-link-here
+
+---
+
+⭐ If you like my work, feel free to follow!
