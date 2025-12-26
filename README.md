@@ -56,8 +56,8 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **add-your-link**
+- 📧 Email: **Aliyanghani46@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/aliyanghani46**
 - 🌐 GitHub: https://github.com/AliyanGhani
 
 ---
