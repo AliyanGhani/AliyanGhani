@@ -165,4 +165,7 @@ availability:
   <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=24&fontAlignY=70" /> </p><p align="center"> <i>🌟 Star my repositories if you find them useful!</i> <br/> <i>🤝 Open to collaborating on innovative projects</i> </p>
   <div align="center">
     
-https://profile-counter.glitch.me/AliyanGhani/count.svg
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliyanGhani&label=Profile%20Views&style=for-the-badge" />
+</p>
+
