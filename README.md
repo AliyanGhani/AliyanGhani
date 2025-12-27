@@ -93,7 +93,7 @@
 
 ### 📈 **Coding Activity**
 ![Aliyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliyanGhani&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliyanGhani&theme=radical&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AliyanGhani&hide_total_contributions=true)](https://git.io/streak-stats)
 
 ### 💻 **Language Proficiency**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliyanGhani&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff)
