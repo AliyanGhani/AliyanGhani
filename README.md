@@ -144,7 +144,6 @@
 ---
 
 ## 💡 **Quick Facts**
-
 ```yaml
 name: Aliyan Ghani
 location: Pakistan
@@ -171,4 +170,3 @@ availability:
 
 
 </div>
-```
