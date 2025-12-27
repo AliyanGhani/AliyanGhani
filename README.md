@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Aliyan Ghani
 
-💻 Full Stack Web Developer | WordPress & Shopify Specialist  
+💻 **Full Stack Web Developer** | **WordPress & Shopify Specialist**  
 🌍 Based in Pakistan  
-🚀 I build scalable websites, e-commerce stores & web applications
+🚀 Building scalable websites, e-commerce solutions, and modern web applications
+
+I focus on clean code, performance, and real-world business solutions — from front-end UI to backend logic, CMS platforms, and integrations.
 
 ---
 
@@ -18,7 +20,7 @@
 ### ⚙ Backend
 - PHP
 - ASP.NET MVC Core
-- SQL (MySQL / SQL Server)
+- SQL (MySQL, SQL Server)
 - JSON
 
 ### 🛒 CMS & E-Commerce
@@ -30,37 +32,32 @@
 - On-Page SEO
 - Conversion Tracking
 
-### 🛠 Tools
+### 🛠 Tools & Workflow
 - Git & GitHub
 - VS Code
 - REST APIs
 
-### 💻 Programming
+### 💻 Programming Languages
 - C++
 - C#
 - Python
 
 ---
 
-## 🚀 Featured Projects
-*(Currently building & uploading)*
-
-- 🔹 Portfolio Website (HTML, CSS, JS)
-- 🔹 WordPress Custom Business Website
-- 🔹 Shopify Store with Meta Pixel Integration
-- 🔹 ASP.NET MVC Web Application
-- 🔹 SQL-Based CRUD System
-
-➡️ Repositories will be updated regularly.
+## 🎯 What I Do
+- Develop responsive and user-friendly web interfaces  
+- Build secure backend systems and database-driven applications  
+- Create and optimize WordPress & Shopify e-commerce stores  
+- Implement analytics, tracking, and on-page SEO best practices  
 
 ---
 
 ## 📫 Contact Me
-- 📧 Email: **Aliyanghani46@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/aliyanghani46**
-- 🌐 GitHub: https://github.com/AliyanGhani
+- 📧 Email: **Aliyanghani46@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/aliyanghani46  
+- 🌐 GitHub: https://github.com/AliyanGhani  
 
 ---
 
-⭐ If you like my work, feel free to follow  
-🤝 Open to freelance & job opportunities
+⭐ Feel free to explore my repositories and follow for updates  
+🤝 Open to freelance, remote, and full-time opportunities
