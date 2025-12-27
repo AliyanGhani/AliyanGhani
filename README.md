@@ -1,31 +1,31 @@
-# 👋 Hi, I'm Aliyan Ghani
+<h1 align="center">👋 Hi, I'm Aliyan Ghani</h1>
 
-💻 **Full Stack Web Developer** | **WordPress & Shopify Specialist**  
-🌍 Based in Pakistan  
-🚀 Building scalable websites, e-commerce solutions, and modern web applications
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;WordPress+%26+Shopify+Specialist;ASP.NET+MVC+%7C+PHP+%7C+SQL;Building+Scalable+Web+Applications" />
+</p>
 
-I focus on clean code, performance, and real-world business solutions — from front-end UI to backend logic, CMS platforms, and integrations.
+<p align="center">
+  🌍 Pakistan &nbsp;•&nbsp; 💻 Web & E-Commerce Development &nbsp;•&nbsp; 🚀 Performance-Focused
+</p>
 
 ---
 
 ## 🧠 Skills & Technologies
 
 ### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Angular
-- jQuery
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,angular,jquery" />
+</p>
 
 ### ⚙ Backend
-- PHP
-- ASP.NET MVC Core
-- SQL (MySQL, SQL Server)
-- JSON
+<p>
+  <img src="https://skillicons.dev/icons?i=php,dotnet,mysql" />
+</p>
 
 ### 🛒 CMS & E-Commerce
-- WordPress (Custom Themes & Plugins)
-- Shopify (Store Setup & Customization)
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,shopify" />
+</p>
 
 ### 📈 Marketing & SEO
 - Meta Pixel (Facebook Pixel)
@@ -33,31 +33,57 @@ I focus on clean code, performance, and real-world business solutions — from f
 - Conversion Tracking
 
 ### 🛠 Tools & Workflow
-- Git & GitHub
-- VS Code
-- REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ### 💻 Programming Languages
-- C++
-- C#
-- Python
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python" />
+</p>
 
 ---
 
 ## 🎯 What I Do
-- Develop responsive and user-friendly web interfaces  
-- Build secure backend systems and database-driven applications  
+
+- Build responsive & high-performance web interfaces  
+- Develop secure backend systems & database-driven apps  
 - Create and optimize WordPress & Shopify e-commerce stores  
-- Implement analytics, tracking, and on-page SEO best practices  
+- Implement analytics, tracking & SEO best practices  
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: **Aliyanghani46@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/aliyanghani46  
-- 🌐 GitHub: https://github.com/AliyanGhani  
+## 📊 GitHub Stats (Auto-Updating)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliyanGhani&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliyanGhani&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliyanGhani&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
-⭐ Feel free to explore my repositories and follow for updates  
-🤝 Open to freelance, remote, and full-time opportunities
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:Aliyanghani46@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Aliyanghani46%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aliyanghani46">
+    <img src="https://img.shields.io/badge/LinkedIn-Aliyan%20Ghani-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/AliyanGhani">
+    <img src="https://img.shields.io/badge/GitHub-AliyanGhani-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile — follow for updates  
+  <br/>
+  🤝 Open to freelance, remote & full-time opportunities
+</p>
